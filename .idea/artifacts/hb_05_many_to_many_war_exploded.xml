@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hb-05-many-to-many:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hb_05_many_to_many_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hb-05-many-to-many/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hb-05-many-to-many" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
